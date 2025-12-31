@@ -1,0 +1,1 @@
+/Users/nidhi/Downloads/verilator/bin/verilator_bin;--compiler;clang;--prefix;VBuffer;--Mdir;/Users/nidhi/Desktop/verilog/My_first_verilog_program_on_macos_M1/build/CMakeFiles/VBuffer_tb.dir/VBuffer.dir;--make;cmake;--coverage;--trace;--sc;Buffer.v
